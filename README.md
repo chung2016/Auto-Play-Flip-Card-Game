@@ -1,6 +1,6 @@
 # Auto Play Flip Card Game
 
-- [watch this video](https://www.youtube.com/watch?v=EUNCP3BOFeU&t=3s)
+- [watch this video](https://www.youtube.com/watch?v=8T28x-51-Ws&t=33s)
 
 # Improved Things
 
