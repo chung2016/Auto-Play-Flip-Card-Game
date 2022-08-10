@@ -12,3 +12,8 @@
 
 - language: python
 - lib: win32, opencv, numpy, PIL
+
+## Reference
+
+- [opencv template matching](https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html)
+- [python win32 doc](http://timgolden.me.uk/pywin32-docs/win32_modules.html)
